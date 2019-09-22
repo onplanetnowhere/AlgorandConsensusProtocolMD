@@ -1,4 +1,5 @@
 # A Guide To The Algorand Consensus Protocol
+#### Authored by [onplanetnowhere](https://github.com/onplanetnowhere)
 
 #### Index
 1. [**What is Algorand?**](#what-is-algorand)
